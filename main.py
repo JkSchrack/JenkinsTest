@@ -1,3 +1,4 @@
+import failTest
 from Person import Person
 
 def addition(x, y):
@@ -10,4 +11,3 @@ if __name__ == "__main__":
 
     me = Person("Justin", "Vancouver", 25)
     me.dob()
-     
