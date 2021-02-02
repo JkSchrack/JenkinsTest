@@ -1,4 +1,3 @@
-import failTest
 from Person import Person
 
 def addition(x, y):
